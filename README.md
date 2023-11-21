@@ -1,4 +1,4 @@
-<h1 align= "center"> 👋, I'm David Gómez </h1>
+<h1 align= "center"> 👋, I'm David </h1>
 
 ## 📓 About me
 - 🎓 I am a final-year student at the Institut Tecnologic de Barcelona.
